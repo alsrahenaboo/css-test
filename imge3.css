@@ -1,0 +1,22 @@
+#first{
+    color: blue;
+}
+.google{
+    color: orange;
+}
+#facebook{
+    color:black;
+    background-color:yellow;
+}
+.list{
+    color:red;
+    
+}
+#list{
+    color: blue;
+    
+}
+ ul.last{
+    list-style-type: none;
+    
+}

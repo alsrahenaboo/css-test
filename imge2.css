@@ -1,0 +1,30 @@
+ 
+body{
+   background-color: rgba(220, 215, 70, 0.436);
+   margin: 10px;
+   padding: 10px;
+}
+p{
+    margin: 5px;
+}
+div{
+    
+    float:left;
+    width: 200px;
+    height: 90px;
+    padding: 2px;
+    margin: 5px;
+}
+
+    
+.ja{
+    background-color: rgba(179, 187, 185,0.45);
+
+}
+#text{
+    color: black;
+    margin: 5px;
+    background-color: rgba(220, 215, 70, 0.136);
+}
+
+
